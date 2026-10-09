@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-08-27T00:59:13.188627953Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-09T08:15:48.908223838Z",
     "templateType": "trip_e",
     "propertyId": "d7d19254-bc77-4f83-90ef-000784970ccf",
     "homepageId": "a49cf780-c570-486a-bdfd-c3e74e62591f"
@@ -22,13 +22,16 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n18시이후 입실 시 사전 문의",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n18시이후 입실 시 사전 문의\n\n[공용바베큐]\n- 이용 객실:전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 25,000원 / 3~4인 기준 30,000원 / 5인 이상 1인당 5,000원 (1박기준/현장결제)\n- 신청 시간:~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[개별바베큐]\n- 이용 객실:전 객실\n- 바베큐 형태: 그릴\n- 이용 요금: 2인기준 20,000원 (1박기준/현장결제)\n- 신청 시간: ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 온도: 냉수\n- 이용 요금:무료\n- 이용 시간: ~ 20:00\n- 이용 복장: 자유복장\n- 수영장 크기: 12m x 10m x 100cm\n- 우천 시 이용 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 주자창 보유\n\n[교통편]\n더하루 오션뷰 수영장펜션은 전남 여수시 화양면 이천리에 위치해 있으며, 여수 시내에서 차량으로 이동 시 화양면 방면으로 진입하시면 편리합니다. 네이버 지도에 더하루 오션뷰 수영장펜션 또는 여수 화양면 펜션을 검색하시면 정확한 위치 안내를 받으실 수 있습니다. 펜션 인근까지 차량 진입이 가능해 주차가 편리하며, 도착 후 바로 바다와 맞닿은 오션뷰를 만나보실 수 있습니다. 여수 오션뷰 펜션을 찾으시는 분들도 길 찾기 어렵지 않게 방문하실 수 있습니다.",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n18시이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n\n[공용바베큐]\n- 이용 객실:전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 25,000원 / 3~4인 기준 30,000원 / 5인 이상 1인당 5,000원 (1박기준/현장결제)\n- 신청 시간:~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[개별바베큐]\n- 이용 객실:전 객실\n- 바베큐 형태: 그릴\n- 이용 요금: 2인기준 20,000원 (1박기준/현장결제)\n- 신청 시간: ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 기간: 6월~9월27일\n- 온도: 냉수\n- 이용 요금:무료\n- 이용 시간: ~ 20:00\n- 이용 복장: 자유복장\n- 수영장 크기: 12m x 10m x 100cm\n- 우천 시 이용 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 주자창 보유\n\n[교통편]\n더하루 오션뷰 수영장펜션은 전남 여수시 화양면 이천리에 위치해 있으며, 여수 시내에서 차량으로 이동 시 화양면 방면으로 진입하시면 편리합니다. 네이버 지도에 더하루 오션뷰 수영장펜션 또는 여수 화양면 펜션을 검색하시면 정확한 위치 안내를 받으실 수 있습니다. 펜션 인근까지 차량 진입이 가능해 주차가 편리하며, 도착 후 바로 바다와 맞닿은 오션뷰를 만나보실 수 있습니다. 여수 오션뷰 펜션을 찾으시는 분들도 길 찾기 어렵지 않게 방문하실 수 있습니다.",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "theharups.co.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1608718",
     "ybsId": "79614",
+    "tripPropertyId": "11081",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -71,7 +74,7 @@
         "id": "970b3829-9c6d-4dbe-8d75-a153586cd60d",
         "name": "공용수영장",
         "description": "",
-        "usageGuide": "- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 온도: 냉수\n- 이용 요금:무료\n- 이용 시간: ~ 20:00\n- 이용 복장: 자유복장\n- 수영장 크기: 12m x 10m x 100cm\n- 우천 시 이용 가능",
+        "usageGuide": "- 이용 객실: 전 객실\n- 운영 기간: 6월~9월27일\n- 온도: 냉수\n- 이용 요금:무료\n- 이용 시간: ~ 20:00\n- 이용 복장: 자유복장\n- 수영장 크기: 12m x 10m x 100cm\n- 우천 시 이용 가능",
         "displayOrder": 0,
         "images": [
           {
@@ -305,9 +308,9 @@
       {
         "thumbnail": [
           {
-            "id": "27290f30-cb96-42d1-a933-fa20d586dc5d",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/iR4klOU7wE3W.jpg",
-            "sortOrder": 0,
+            "id": "af8ab624-d85b-4abd-945d-c662c5ca9e83",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/5SqEB6GhgYpM.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -317,7 +320,7 @@
           {
             "id": "0c49753d-dd25-477c-8154-70ff88e64eb1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/ysLGocx3jS2W.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -325,7 +328,7 @@
           {
             "id": "96995b87-78e6-4869-b07a-323d2c750d69",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/ARqOnfUsj2ey.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -333,7 +336,7 @@
           {
             "id": "bd350db5-a806-46c5-9163-de5f06126f63",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/e9byTQGtOBHd.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -341,7 +344,7 @@
           {
             "id": "3cd83577-8df7-4c51-83df-8cca7129b2be",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/QfiyG5BdaCjD.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -349,7 +352,7 @@
           {
             "id": "505d975c-e78f-4ed0-b94c-7cda41b70ac0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/dyzgR7NSuDWm.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -357,15 +360,7 @@
           {
             "id": "4e6a5ce9-bc2d-487e-a619-09eb10fece43",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/1V0Y2IkLqDWM.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "af8ab624-d85b-4abd-945d-c662c5ca9e83",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/5SqEB6GhgYpM.jpg",
-            "sortOrder": 6,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -373,7 +368,7 @@
           {
             "id": "7cd9d24d-06fa-4394-b393-d4611ae2ccbb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/cIYWr456LdJU.jpg",
-            "sortOrder": 7,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -381,7 +376,15 @@
           {
             "id": "305f00af-d2c9-4158-b0f5-bf460aec8177",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/lCTXtpbe5DQ3.jpg",
-            "sortOrder": 8,
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "27290f30-cb96-42d1-a933-fa20d586dc5d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/27/iR4klOU7wE3W.jpg",
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
